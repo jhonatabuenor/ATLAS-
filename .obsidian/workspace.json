@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e0c131c7db3a56d6",
+        "id": "72a09d2005a57a5b",
         "type": "tabs",
         "children": [
           {
-            "id": "174af87d5f5bb7ab",
+            "id": "a6ccf685e2a9161c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -150,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nota_20260421_173009.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Nota_20260421_173009"
+              "title": "Sumário"
             }
           }
         ]
@@ -177,12 +176,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "6f4341032c2e4d6f",
+  "active": "a6ccf685e2a9161c",
   "lastOpenFiles": [
+    "Escritório.md",
+    "teste 01/Nota_20260421_173849.md",
+    "Nota_20260421_173009.md",
     "teste 02",
     "teste 01",
     "Nota_20260421_173541.md",
-    "Nota_20260421_172830.md",
-    "Nota_20260421_173009.md"
+    "Nota_20260421_172830.md"
   ]
 }
