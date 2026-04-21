@@ -150,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Nota_20260421_173009.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Nota_20260421_173009"
             }
           }
         ]
@@ -176,8 +177,9 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "174af87d5f5bb7ab",
+  "active": "6f4341032c2e4d6f",
   "lastOpenFiles": [
-    "Nota_20260421_172830.md"
+    "Nota_20260421_172830.md",
+    "Nota_20260421_173009.md"
   ]
 }
